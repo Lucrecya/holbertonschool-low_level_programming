@@ -2,8 +2,8 @@
 /**
 * main - Entry point of the program
 *
-* Description: Prints all the lowercase alphabet except q and e followed by a new line using the putchar function.
-*
+* Description: Prints the lowercase alphabet excluding the letters 'q' and 'e',
+ *              followed by a new line using the putchar function.
 * Return: 0 (Success)
 */
 int main(void)

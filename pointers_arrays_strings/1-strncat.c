@@ -6,7 +6,7 @@
  * @src: The source string
  * @n: The maximum number of bytes to be concatenated from src
  *
- * return: Pointer to the resulting string (dest)
+ * return: Pointer to the resulting string dest
  */
 
 char *_strncat(char *dest, char *src, int n)
